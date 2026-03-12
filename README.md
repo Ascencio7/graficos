@@ -40,23 +40,25 @@ maven { url 'https://jitpack.io' }
 ```
 ---
 
-
-## Ejercicio 1
-
-- Editar el activity_main.xml al gusto para mostrar la gráfica.
+## Crear el proyecto con Groovy.
 
 <figure>
-  <img src="./images/1.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
+  <img src="./images/uno.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Editar el archivo MainActivity.java para la lógica de representación del gráfico.
+## Editar el archivo activty_main.xml al gusto para mostrar la gráfica.
 <figure>
-  <img src="./images/2.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
+  <img src="./images/dos.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
-- Tras pegar los links donde corresponden, la app debería verse de la siguiente manera:
+## Editar el archivo MainActivity.java para crear la lógica de la gráfica.
 <figure>
-  <img src="./images/3.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
+  <img src="./images/tres.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
+</figure>
+
+## App corriendo correctamente.
+<figure>
+  <img src="./images/cuatro.png" alt="Captura de pantalla del login" style="max-width: 600px; display:block; margin:auto;">
 </figure>
 
 <br>
