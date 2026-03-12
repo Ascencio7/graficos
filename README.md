@@ -24,8 +24,6 @@ Este proyecto está diseñado como práctica de **Desarrollo de Aplicaciones Web
 
 ---
 
----
-
 ## Usuario y contraseña
 
 1. build.gradle (debe aparecer plugins, android, entre otros; si está vacío no se debe pegar el link) en dependencies.
